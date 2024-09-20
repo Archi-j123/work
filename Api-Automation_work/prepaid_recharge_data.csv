@@ -1,0 +1,8 @@
+accountNo,amount,meterNumber,paymentDate,sourceOfRecharge,param1,param2
+8888888888,12.00,888888,2024-08-08T00:00:00,OFFLINE,<string>,<string>
+99999999999,12.00,888888,2024-08-08T00:00:00,OFFLINE,<string>,<string>
+9999999999,12,888888,2024-08-08T00:00:00,OFFLINE,<string>,<string>
+9999999999,12abc,888888,2024-08-08T00:00:00,OFFLINE,<string>,<string>
+9999999999,12.00,888888,2024-08-08T00:00:00,xyz,<string>,<string>
+9999999999,12.00,888888,2024-08-08 00:00:00,OFFLINE,<string>,<string>
+

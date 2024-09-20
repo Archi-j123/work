@@ -1,0 +1,4 @@
+Account ID,Meter Number,Test Result,Recharge Amount,Wallet Balance,Fail Reason
+7700770801,GMPW770810,PASS,₹ 4140.00,₹ 5686.67,
+111111111,GMPW770810,FAIL,N/A,N/A,"FAIL: Validate account_id format and type. Reason: 'account_id' should be 10 characters long, but got 9"
+1ghngf001402102,GMPW7@70810,FAIL,N/A,N/A,"FAIL: Validate account_id format and type. Reason: 'account_id' should be 10 characters long, but got 15; FAIL: Validate meter_number format and type. Reason: 'meter_number' should only contain alphanumeric characters"

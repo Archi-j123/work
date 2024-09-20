@@ -1,0 +1,11 @@
+ Meter: PO00000074, Command: EVENTS, Execution: 2024-09-16 15:50:10 {Transaction Related Events}
+
+date_and_time_of_events,event_code,event,data_type
+2024-09-11 10:25:00,166,Occurrence:MD Reset,TEFV
+2024-09-09 17:37:54,155,Occurrence:Activity Calendar for Time Zones,TEFV
+2024-09-09 17:32:00,166,Occurrence:MD Reset,TEFV
+2024-09-09 17:31:23,155,Occurrence:Activity Calendar for Time Zones,TEFV
+2024-09-11 10:23:21,155,Occurrence:Activity Calendar for Time Zones,TEFV
+2024-09-09 17:56:00,166,Occurrence:MD Reset,TEFV
+2024-09-09 17:55:09,155,Occurrence:Activity Calendar for Time Zones,TEFV
+2024-09-09 17:39:00,166,Occurrence:MD Reset,TEFV
